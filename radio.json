@@ -3,6 +3,46 @@
   "stream_url": "http://radiostreamcolombia.albpo.com:8110/radio.mp3",
   "whatsapp": "https://wa.me/573206314866",
   "facebook": "https://www.facebook.com/Jose.Urieles.M",
-  "about_us": "Satélite Radio es la emisora comunitaria local del municipio de Ponedera, comprometida con la información, la cultura, el entretenimiento y el desarrollo de la comunidad.",
-  "logo_url": "https://i.postimg.cc/XXXXXXXX/logo.png"
+  "about_us": "Satélite Radio es una emisora comprometida con la información, la cultura, el entretenimiento y el servicio a la comunidad.",
+  "logo_url": "https://i.postimg.cc/Yj4yH88h/534a738d-ee37-40ad-9dda-c5382a80b521.png",
+
+  "schedule": [
+    {
+      "name": "Reminiscencias Vallenatas",
+      "days": "Lunes a Viernes",
+      "start_time": "06:00",
+      "end_time": "09:00",
+      "host": "Satélite Radio",
+      "description": "Los clásicos vallenatos que marcaron generaciones."
+    },
+    {
+      "name": "Noticias Satélite",
+      "days": "Lunes a Viernes",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "host": "Equipo Informativo",
+      "description": "Información local, regional y nacional."
+    },
+    {
+      "name": "Almuerzo Vallenato",
+      "days": "Lunes a Viernes",
+      "start_time": "12:00",
+      "end_time": "14:00",
+      "host": "Satélite Radio",
+      "description": "Las mejores canciones y artistas del vallenato."
+    }
+  ],
+
+  "social_media": {
+    "facebook": "https://www.facebook.com/Jose.Urieles.M",
+    "whatsapp": "https://wa.me/573206314866"
+  },
+
+  "contact": {
+    "phone": "+57 3206314866",
+    "email": "contacto@sateliteradio.com"
+  },
+
+  "app_version": "1.0",
+  "last_update": "2026-06-04"
 }
